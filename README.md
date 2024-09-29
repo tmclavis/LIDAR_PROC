@@ -8,10 +8,10 @@ This project proposes a real-time ground region segmentation method using point 
 
 ## Features
 
-- Real-time LiDAR semantic segmentation
+- Real-time point-clouds segmentation
 - Low latency
 - High accuracy
-- Evaluation based on the Semantic-KITTI dataset
+- Evaluation based on the KITTI dataset
 
 ## Installation
 
