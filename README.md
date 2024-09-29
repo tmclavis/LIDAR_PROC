@@ -4,7 +4,7 @@ The code will be released soon.
 
 ## Introduction
 
-This project proposes a real-time semantic segmentation method using LiDAR sensors. The method combines SalsaNext with semantic forecasting to enhance the object recognition capabilities of autonomous vehicles.
+This project proposes a real-time ground region segmentation method using point clouds.
 
 ## Features
 
@@ -17,4 +17,4 @@ This project proposes a real-time semantic segmentation method using LiDAR senso
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/tmclavis/LIDAR_PROC.git
